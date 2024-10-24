@@ -7,9 +7,9 @@ __pycache__/
 demos/.ipynb_checkpoints/
 demos/__pycache__/
 demos/data/state_of_the_union.txt
-demos/session-2/chroma_logs.log
-demos/session-2/.chromadb/
+demos/session-4/chroma_logs.log
+demos/session-4/.chromadb/
 demos/data/prompts.jsonl
 .DS_Store
 demos/.DS_Store
-demos/session-2/chromadb/
+demos/session-4/chromadb/
